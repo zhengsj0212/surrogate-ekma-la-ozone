@@ -1,5 +1,3 @@
-# surrogate-ekma-la-ozone
-
 # Surrogate EKMA Analysis of Urban Ozone Formation in Los Angeles (2024–2025)
 
 This repository contains a complete, reproducible data-processing and analysis pipeline for a **Random Forest–based surrogate EKMA (Empirical Kinetic Modeling Approach)** study of urban ozone formation regimes in **Los Angeles County (CA)** during **2024–2025**.
