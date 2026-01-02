@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-PROJECT_ROOT <- "/Users/zhengsijie/LinearRegressionGemini/O3"
+PROJECT_ROOT <- "proj_root"
 CODE_DIR <- file.path(PROJECT_ROOT, "code")
 DATA_RAW <- file.path(PROJECT_ROOT, "data_raw")
 DATA_PROC <- file.path(PROJECT_ROOT, "data_proc")
